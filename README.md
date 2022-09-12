@@ -11,8 +11,8 @@ Committed to lifelong learning.
 
 #My Coding Profiles
 
-GeeksforGeeks : https://auth.geeksforgeeks.org/user/darshanpunk81/practice/ (RANK 4 in entire institute)
-Leetcode : https://leetcode.com/Darshan__1/
-Codechef : https://www.codechef.com/users/darshan_luffy
+1. GeeksforGeeks : https://auth.geeksforgeeks.org/user/darshanpunk81/practice/ (RANK 4 in entire institute)
+2. Leetcode : https://leetcode.com/Darshan__1/
+3. Codechef : https://www.codechef.com/users/darshan_luffy
 
 
